@@ -13,7 +13,7 @@ For this project I set up a juicy honeypot in Azure (using their free $200 credi
 - <b>Log workspace</b>
 - <b>IP Geolocation API</b>
 
-<h2>Project Walk-through:</h2>
+<h2>Project Walkthrough:</h2>
 
 <p>
 <h3 align="center">Initial Setup</h3> <br/>
